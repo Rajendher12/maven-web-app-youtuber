@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to rajuCLASS <font></h1>
+<h1><font color='red'> Welcome to gopi CLASS <font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 
 <a href="https://ashokitech.com/online-training-schedules"> Click Here To See KOTESWARARAO IT Training Schedules</a>
